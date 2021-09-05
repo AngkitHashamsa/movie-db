@@ -1,2 +1,3 @@
-CI='' react-scripts build
-live site on :https://movi-db-imdb-react-app.netlify.app/
+## CI='' react-scripts built
+## live site on netlify
+[https://movi-db-imdb-react-app.netlify.app/]:https://movi-db-imdb-react-app.netlify.app/
